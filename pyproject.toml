@@ -1,19 +1,19 @@
 [tool.poetry]
-name = "imiit-student-bot"
+name = "a-guide-for-miit"
 version = "1.0.0"
-description = "Imiit Student Bot"
-authors = ["Николай Иванов <nikolai.in@tuta.io>"]
+description = "Miit guide bot"
+authors = ["Иванов Николай Николаевич <nikolai.in@tuta.io>", "Васюта Илья Андреевич <aodhogane@yandex.ru>"]
 license = "GPL-3.0"
 readme = "README.rst"
-homepage = "https://github.com/nikolai-in/imiit-student-bot"
-repository = "https://github.com/nikolai-in/imiit-student-bot"
-documentation = "https://imiit-student-bot.readthedocs.io"
+homepage = "https://github.com/Aodhogane/a-guide-for-miit"
+repository = "https://github.com/Aodhogane/a-guide-for-miit"
+documentation = "https://a-guide-for-miit.readthedocs.io"
 classifiers = [
     "Development Status :: 2 - Pre-Alpha",
 ]
 
 [tool.poetry.urls]
-Changelog = "https://github.com/nikolai-in/imiit-student-bot/releases"
+Changelog = "https://github.com/Aodhogane/a-guide-for-miit/releases"
 
 [tool.poetry.dependencies]
 python = "^3.7.1"
@@ -55,14 +55,14 @@ Pygments = "^2.10.0"
 furo = "^2021.11.23"
 
 [tool.poetry.scripts]
-imiit-student-bot = "imiit_student_bot.__main__:main"
+a-guide-for-miit = "a_guide_for_miit.__main__:main"
 
 [tool.coverage.paths]
 source = ["src", "*/site-packages"]
 
 [tool.coverage.run]
 branch = true
-source = ["imiit_student_bot"]
+source = ["a_guide_for_miit"]
 
 [tool.coverage.report]
 show_missing = true

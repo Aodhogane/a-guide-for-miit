@@ -1,4 +1,4 @@
-Imiit Student Bot
+Miit guide bot
 =================
 
 |PyPI| |Status| |Python Version| |License|
@@ -7,26 +7,26 @@ Imiit Student Bot
 
 |pre-commit| |Black|
 
-.. |PyPI| image:: https://img.shields.io/pypi/v/imiit-student-bot.svg
-   :target: https://pypi.org/project/imiit-student-bot/
+.. |PyPI| image:: https://img.shields.io/pypi/v/a-guide-for-miit.svg
+   :target: https://pypi.org/project/a-guide-for-miit/
    :alt: PyPI
-.. |Status| image:: https://img.shields.io/pypi/status/imiit-student-bot.svg
-   :target: https://pypi.org/project/imiit-student-bot/
+.. |Status| image:: https://img.shields.io/pypi/status/a-guide-for-miit.svg
+   :target: https://pypi.org/project/a-guide-for-miit/
    :alt: Status
-.. |Python Version| image:: https://img.shields.io/pypi/pyversions/imiit-student-bot
-   :target: https://pypi.org/project/imiit-student-bot
+.. |Python Version| image:: https://img.shields.io/pypi/pyversions/a-guide-for-miit
+   :target: https://pypi.org/project/a-guide-for-miit
    :alt: Python Version
-.. |License| image:: https://img.shields.io/pypi/l/imiit-student-bot
+.. |License| image:: https://img.shields.io/pypi/l/a-guide-for-miit
    :target: https://opensource.org/licenses/GPL-3.0
    :alt: License
-.. |Read the Docs| image:: https://img.shields.io/readthedocs/imiit-student-bot/latest.svg?label=Read%20the%20Docs
-   :target: https://imiit-student-bot.readthedocs.io/
-   :alt: Read the documentation at https://imiit-student-bot.readthedocs.io/
-.. |Tests| image:: https://github.com/nikolai-in/imiit-student-bot/workflows/Tests/badge.svg
-   :target: https://github.com/nikolai-in/imiit-student-bot/actions?workflow=Tests
+.. |Read the Docs| image:: https://img.shields.io/readthedocs/a-guide-for-miit/latest.svg?label=Read%20the%20Docs
+   :target: https://a-guide-for-miit.readthedocs.io/
+   :alt: Read the documentation at https://a-guide-for-miit.readthedocs.io/
+.. |Tests| image:: https://github.com/Aodhogane/a-guide-for-miit/workflows/Tests/badge.svg
+   :target: https://github.com/Aodhogane/a-guide-for-miit/actions?workflow=Tests
    :alt: Tests
-.. |Codecov| image:: https://codecov.io/gh/nikolai-in/imiit-student-bot/branch/main/graph/badge.svg
-   :target: https://codecov.io/gh/nikolai-in/imiit-student-bot
+.. |Codecov| image:: https://codecov.io/gh/Aodhogane/a-guide-for-miit/branch/main/graph/badge.svg
+   :target: https://codecov.io/gh/Aodhogane/a-guide-for-miit
    :alt: Codecov
 .. |pre-commit| image:: https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white
    :target: https://github.com/pre-commit/pre-commit
@@ -55,7 +55,7 @@ You can install *Imiit Student Bot* via pip_ from PyPI_:
 
 .. code:: console
 
-   $ pip install imiit-student-bot
+   $ pip install a-guide-for-miit
 
 
 Usage
@@ -95,8 +95,8 @@ This project was generated from `@cjolowicz`_'s `Hypermodern Python Cookiecutter
 .. _GPL 3.0 license: https://opensource.org/licenses/GPL-3.0
 .. _PyPI: https://pypi.org/
 .. _Hypermodern Python Cookiecutter: https://github.com/cjolowicz/cookiecutter-hypermodern-python
-.. _file an issue: https://github.com/nikolai-in/imiit-student-bot/issues
+.. _file an issue: https://github.com/Aodhogane/a-guide-for-miit/issues
 .. _pip: https://pip.pypa.io/
 .. github-only
 .. _Contributor Guide: CONTRIBUTING.rst
-.. _Usage: https://imiit-student-bot.readthedocs.io/en/latest/usage.html
+.. _Usage: https://a-guide-for-miit.readthedocs.io/en/latest/usage.html
